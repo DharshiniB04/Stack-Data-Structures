@@ -6,7 +6,7 @@ The main operations on a stack are:
 
 **Push:** Adds an element to the top of the stack.
 
-**Pop: **Removes and returns the element from the top of the stack.
+**Pop:** Removes and returns the element from the top of the stack.
 
 **Peek/Top:** Returns the element at the top of the stack without removing it.
 
